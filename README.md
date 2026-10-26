@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**Scorpped/Scorpped** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Nycolas França
+**Desenvolvimento web · Automação de processos**
+Desenvolvo aplicações web e automações com PHP, Python e JavaScript/TypeScript. Meu foco é transformar tarefas do dia a dia em soluções práticas, com processos mais simples e menos trabalho manual.
+## Tecnologias
+| Área | Tecnologias |
+| --- | --- |
+| Desenvolvimento web | PHP, JavaScript, TypeScript |
+| Automação | Python |
+| Interfaces | HTML, CSS |
+| Versionamento | Git, GitHub |
+## Foco de desenvolvimento
+- Aplicações web para organizar informações e apoiar rotinas.
+- Scripts e ferramentas para automatizar tarefas repetitivas.
+- Interfaces que tornam o uso de sistemas mais simples.
+---
+[Explore meus repositórios públicos](https://github.com/Scorpped?tab=repositories&type=public)
