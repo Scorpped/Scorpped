@@ -1,16 +1,30 @@
 # Nycolas França
-**Desenvolvimento web · Automação de processos**
-Desenvolvo aplicações web e automações com PHP, Python e JavaScript/TypeScript. Meu foco é transformar tarefas do dia a dia em soluções práticas, com processos mais simples e menos trabalho manual.
-## Tecnologias
+
+### Desenvolvedor Full Stack
+
+**Web · Mobile · Desktop · Automação**
+
+Desenvolvo aplicações web, mobile e desktop, além de ferramentas para automatizar processos. Minha stack reúne PHP e Laravel, Python e PySide, React, React Native, Vue e Node.js, com MySQL, Docker e Git.
+
+## Stack de desenvolvimento
+
 | Área | Tecnologias |
 | --- | --- |
-| Desenvolvimento web | PHP, JavaScript, TypeScript |
+| Back-end | PHP · Laravel · Node.js |
+| Front-end | React · Vue |
+| Mobile | React Native |
+| Desktop | Python · PySide |
 | Automação | Python |
-| Interfaces | HTML, CSS |
-| Versionamento | Git, GitHub |
-## Foco de desenvolvimento
-- Aplicações web para organizar informações e apoiar rotinas.
-- Scripts e ferramentas para automatizar tarefas repetitivas.
-- Interfaces que tornam o uso de sistemas mais simples.
----
-[Explore meus repositórios públicos](https://github.com/Scorpped?tab=repositories&type=public)
+| Banco de dados | MySQL |
+| Ferramentas | Git · Docker |
+
+## O que desenvolvo
+
+- **Web:** aplicações, sistemas de gestão e interfaces.
+- **Mobile:** aplicativos com React Native.
+- **Desktop:** interfaces e ferramentas com Python e PySide.
+- **Automação:** scripts para simplificar tarefas e processos.
+
+## Projetos
+
+[Explore meus repositórios públicos →](https://github.com/Scorpped?tab=repositories&type=public)
