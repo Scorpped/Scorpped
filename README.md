@@ -2,42 +2,31 @@
 
 ### Desenvolvedor Full Stack
 
-**Web · Mobile · Desktop · Automação**
+Desenvolvo aplicações web, mobile e desktop, além de automações para simplificar processos. Trabalho com PHP e Laravel, Python e PySide, React, React Native, Vue e Node.js.
 
-Desenvolvo aplicações web, mobile e desktop, além de ferramentas para automatizar processos. Minha stack reúne PHP e Laravel, Python e PySide, React, React Native, Vue e Node.js, com MySQL, Docker e Git.
+## Stack
 
-## Stack de desenvolvimento
+- **Backend:** PHP · Laravel · Node.js · Python
+- **Frontend:** React · Vue · JavaScript · TypeScript
+- **Mobile:** React Native · Expo
+- **Desktop e automação:** Python · PySide · Playwright
+- **Dados e ferramentas:** MySQL · SQLite · Docker · Git
 
-| Área | Tecnologias |
+## Projetos em destaque
+
+O código dos produtos é privado. Cada repositório abaixo apresenta o problema, a arquitetura e as decisões técnicas.
+
+| Projeto | Resumo |
 | --- | --- |
-| Back-end | PHP · Laravel · Node.js |
-| Front-end | React · Vue |
-| Mobile | React Native |
-| Desktop | Python · PySide |
-| Automação | Python |
-| Banco de dados | MySQL |
-| Ferramentas | Git · Docker |
+| [Fiscaliza Mobile](https://github.com/Scorpped/fiscaliza-mobile) | Fiscalização de condomínios com app offline, checklists, ocorrências e painel de gestão: React Native, Laravel e MySQL. |
+| [Eproc Automação](https://github.com/Scorpped/eproc-automacao) | Automação assistida de rotinas web, com coleta, acompanhamento de execução e retomada de tarefas: Python, Playwright e SQLite. |
+| [Síndico CRM](https://github.com/Scorpped/sindico-crm) | Gestão de contatos comerciais, status e histórico de acompanhamento, com acesso por vendedor: Laravel, React e MySQL. |
+| [Atlas Vistorias](https://github.com/Scorpped/atlas-vistorias) | Projeto de vistorias imobiliárias com API autenticada, agenda e organização por empresa: Laravel, Sanctum e MySQL. |
+| [BarberFlow Pro](https://github.com/Scorpped/barberflow) | Landing page para um produto de gestão de barbearias, com apresentação de recursos e contato: React, TypeScript e Tailwind CSS. |
 
-## O que desenvolvo
+## Como eu trabalho
 
-- **Web:** aplicações, sistemas de gestão e interfaces.
-- **Mobile:** aplicativos com React Native.
-- **Desktop:** interfaces e ferramentas com Python e PySide.
-- **Automação:** scripts para simplificar tarefas e processos.
-
-## Projetos
-
-[Explore meus repositórios públicos →](https://github.com/Scorpped?tab=repositories&type=public)
-
-
-## Vitrines de demonstração
-
-Projetos criados do zero com dados inteiramente fictícios. Não são cópias nem versões públicas de sistemas privados.
-
-| Projeto | Demonstração | Stack |
-| --- | --- | --- |
-| [Forma — Catálogo de produtos](https://github.com/Scorpped/catalogo-produtos-demo) | Busca, categorias, ordenação e sacola simulada | React · JavaScript · Node.js |
-| [Nexo — Catálogo de serviços](https://github.com/Scorpped/catalogo-servicos-demo) | Filtros, renderização no servidor e saída JSON | PHP · HTML/CSS · Docker |
-| [Acervo — Catálogo de documentos](https://github.com/Scorpped/catalogo-documentos-demo) | Pesquisa de metadados fictícios e exportação CSV | Python · PySide6 |
-
-Cada repositório inclui descrição, instruções para executar, testes e limites da demonstração.
+- Especificação antes do código: requisitos, desenho da solução e tarefas.
+- Testes nas rotinas críticas, com atenção à API, regras de acesso e sincronização.
+- Segurança desde o projeto: autenticação, permissões, isolamento de dados e cuidado com segredos.
+- Desenvolvimento assistido por IA: Codex e Claude Code.
