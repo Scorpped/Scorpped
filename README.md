@@ -19,7 +19,7 @@ O código dos produtos é privado. Cada repositório abaixo apresenta o problema
 | Projeto | Resumo |
 | --- | --- |
 | [Fiscaliza Mobile](https://github.com/Scorpped/fiscaliza-mobile) | Fiscalização de condomínios com app offline, checklists, ocorrências e painel de gestão: React Native, Laravel e MySQL. |
-| [Eproc Automação](https://github.com/Scorpped/eproc-automacao) | Automação assistida de rotinas web, com coleta, acompanhamento de execução e retomada de tarefas: Python, Playwright e SQLite. |
+| [Automação](https://github.com/Scorpped/eproc-automacao) | Automação assistida de rotinas web, com coleta, acompanhamento de execução e retomada de tarefas: Python, Playwright e SQLite. |
 | [Síndico CRM](https://github.com/Scorpped/sindico-crm) | Gestão de contatos comerciais, status e histórico de acompanhamento, com acesso por vendedor: Laravel, React e MySQL. |
 | [Atlas Vistorias](https://github.com/Scorpped/atlas-vistorias) | Projeto de vistorias imobiliárias com API autenticada, agenda e organização por empresa: Laravel, Sanctum e MySQL. |
 | [BarberFlow Pro](https://github.com/Scorpped/barberflow) | Landing page para um produto de gestão de barbearias, com apresentação de recursos e contato: React, TypeScript e Tailwind CSS. |
